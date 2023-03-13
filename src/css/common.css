@@ -16,3 +16,9 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  padding: 25px 50px;
+  font-size: 25px;
+  cursor: pointer;
+}
