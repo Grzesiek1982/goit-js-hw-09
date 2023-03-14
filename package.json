@@ -2,7 +2,7 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://grzesiek1982.github.io/goit-js-hw-09",
+  "homepage": "https://grzesiek1982.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "Grzesiek1982 src/*.html",
     "build": "Grzesiek1982 build src/*.html --public-url /goit-js-hw-09/"
