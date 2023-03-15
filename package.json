@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://grzesiek1982.github.io/goit-js-hw-09/",
   "scripts": {
-    "start": "Grzesiek1982 src/*.html",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Grzesiek1982/goit-js-hw-09.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Grzesiek",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Grzesiek1982/goit-js-hw-09/issues"
